@@ -16,7 +16,7 @@ table {
  min-width: 300px;
  background: #dad8d8;
 }
-
+/*Zebra Stripes */
 tr:nth-child(even) {
 	background-color: lightblue;
   }
